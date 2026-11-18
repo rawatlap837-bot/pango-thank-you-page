@@ -1,0 +1,6 @@
+Place your 90-minute video in this folder and name it: workshop.mp4
+
+(Or ignore this folder and paste a full https:// video link into
+src/data/content.js -> workshop.videoUrl)
+
+Tip: use an MP4 file encoded with H.264 video + AAC audio so it plays in every browser.
